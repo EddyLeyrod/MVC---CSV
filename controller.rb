@@ -1,3 +1,4 @@
+#este es el controlador 
 require_relative 'model'
 require_relative 'view'
 
